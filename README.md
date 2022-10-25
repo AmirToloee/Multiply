@@ -1,5 +1,5 @@
 # Multiply
-Multipliction with function and for
+#Multipliction with function and for
 #multipliction tabale with function and for
 #جدول ضرب با استفاده از تابع و حلقه for
 class multiply:
